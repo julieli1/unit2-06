@@ -1,12 +1,12 @@
 #body {
-  background-color:#a3c2c2;
+  background-color: #a3c2c2;
 }
 
 #idontlikeyou {
   text-align: center;
-  color: #293d3d;
+  color:  #293d3d;
   border-style: outset;
-  border-color: #527a7a;
+  border-color:  #527a7a;
 }
 
 #titlenotwo {
@@ -31,7 +31,7 @@
 }
 
 #corps {
-  background-color: #99e6e6;
+  background-color:  #99e6e6;
 }
 
 #titre {
@@ -41,7 +41,7 @@
 }
 
 #dothesehavetoberelevant {
-  color: #0a2929;
+  color:  #0a2929;
 }
 
 .liste {
@@ -51,5 +51,5 @@
 }
 
 .tablequiz {
-  border: 2px transparent  black
+  border: 2px transparent  black;
 }
