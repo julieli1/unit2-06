@@ -1,45 +1,55 @@
 #body {
   background-color:#a3c2c2;
 }
+
 #idontlikeyou {
   text-align: center;
   color: #293d3d;
   border-style: outset;
   border-color: #527a7a;
 }
+
 #titlenotwo {
   text-align: center;
 }
+
 #nosportsforme {
   font-family: cursive;
   font-size: 130%;
 }
+
 #thebaneofmyexistence {
   border: 2px outset  #527a7a;
   padding: 15px;
   border-spacing: 15px;
 }
+
 #mygodess {
   border: 5px outset  #527a7a;
   width: 50%;
   height: 50%;
 }
+
 #corps {
   background-color: #99e6e6;
 }
+
 #titre {
   text-align: center;
   border-style: dotted;
   border-color:  #196767;
 }
+
 #dothesehavetoberelevant {
   color: #0a2929;
 }
+
 .liste {
   border-style: solid;
   border-color:  #196767;
   padding: 10px;
 }
+
 .tablequiz {
-  border: 2px transparent black
+  border: 2px transparent  black
 }
